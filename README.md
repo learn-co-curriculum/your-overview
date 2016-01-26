@@ -1,6 +1,7 @@
 ## Overview
 
-Every Readme should start off with an overview. This is a 1-2 sentence summary of what the lesson will cover. Like the rest of your writing, it should have a friendly, conversational, and assuring tone. 
+
+Let's start with the overview, which is also what every Readme should start with as well. This is usually a 1-2 sentence summary of what the lesson will cover. Like the rest of your writing, it should have a friendly, conversational, and assuring tone. 
 
 For both students and instructors, this will give them a quick, brief idea of the lesson without having to read the whole text. 
 
