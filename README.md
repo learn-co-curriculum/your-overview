@@ -64,4 +64,4 @@ Here we start with something the student has already learned and connects it to 
 
 
 
-<a href='https://learn.co/lessons/your-overview' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/your-overview' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
