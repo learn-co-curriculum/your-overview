@@ -21,7 +21,7 @@ It’s pretty dry and not friendly. It also uses what we call “big words” th
 
 It aims to solve the problems faced when creating single page applications - we'll talk all about them shortly.**
 
-Notice now that we use the second person plural (“we”) and how this humanizes the lesson. While “single page applications” is a phrase that students might also not have heard about, this time it’s something that we’ve now told the student that we’re going to be covering soon. 
+Notice now that we use the first-person plural (“we”) and how this humanizes the lesson. While “single page applications” is a phrase that students might also not have heard about, this time it’s something that we’ve now told the student that we’re going to be covering soon. 
 
 Let's look at another not-so-great overview:
 
@@ -35,7 +35,7 @@ This isn’t technically difficult, but it’s repetitive and reads pretty imper
 
 **In this lesson, we are going to look at the core concepts that we will use in every Angular application. Some will be familiar to you, however some may seem a bit strange. Don't worry if they take time to sink in!**
 
-Using second person plural (“we”) again gives a friendly tone, and the second sentence assures students that it's ok if everything they're about to read might not make total sense. This is something that you can use especially in lessons that are earlier on in any track. 
+Using first-person plural (“we”) again gives a friendly tone, and the second sentence assures students that it's ok if everything they're about to read might not make total sense. This is something that you can use especially in lessons that are earlier on in any track. 
 
 
 ## Other Examples of Strong Overviews
