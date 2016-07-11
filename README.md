@@ -5,7 +5,8 @@ Let's start with the overview, which is also what every Readme should start with
 
 For both students and instructors, this will give them a quick, brief idea of the lesson without having to read the whole text. 
 
-1. Let's take a look at a not-so-great overview: 
+---
+Let's take a look at a not-so-great overview: 
 
 **AngularJS (commonly referred to as just "Angular") is an open-source framework released in 2009, being mainly maintained by Google as well as a massive community of developers.**
 
@@ -23,7 +24,8 @@ It’s pretty dry and not friendly. It also uses what we call “big words” th
 
 Notice now that we use the first-person plural (“we”) and how this humanizes the lesson. While “single page applications” is a phrase that students might also not have heard about, this time it’s something that we’ve now told the student that we’re going to be covering soon. 
 
-2. Let's look at another not-so-great overview:
+---
+Let's look at another not-so-great overview:
 
 **There are some core concepts that every Angular developer will need to familiarise themselves with. This will teach you the core concepts that you will be using in every Angular application you make.**
 
@@ -37,8 +39,8 @@ This isn’t technically difficult, but it’s repetitive and reads pretty imper
 
 Using first-person plural (“we”) again gives a friendly tone, and the second sentence assures students that it's ok if everything they're about to read might not make total sense. This is something that you can use especially in lessons that are earlier on in any track. 
 
-
-3. Here’s another example of an overview that’s different from the above, but also works in its own way. This is from our Ruby on Rails curriculum.  
+---
+Here’s another example of an overview that’s different from the above, but also works in its own way. This is from our Ruby on Rails curriculum.  
 
 **ActiveRecord associations are an iconic Rails feature. They allow developers to work with complex networks of related models without having to write a single line of SQL--as long as all of the names line up!**
 
@@ -46,7 +48,8 @@ Using first-person plural (“we”) again gives a friendly tone, and the second
 
 This sets the stage for why what we’re about to discuss is important, is brief, and the technical terms that they discuss- “related models” and “SQL”- are concepts that students are already familiar with. 
 
-4. Here’s one final example which is also taken from our Ruby on Rails curriculum:
+---
+Here’s one final example which is also taken from our Ruby on Rails curriculum:
 
 **Now that we know Rails automatically performs validations defined on models, let's use this information to help users fix typos or other problems in their form submissions.**
 
